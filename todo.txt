@@ -1,0 +1,5 @@
+- check EPMS, Dashboard, Email and AA
+- Discussion with java mologiq team
+- broadcast for new android technet article
+- discussion and check status of KB demo with utsav
+
